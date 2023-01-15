@@ -1,0 +1,3 @@
+1girls
+Negative prompt: (low quality, worst quality:1.4)
+Steps: 25, Sampler: Euler a, CFG scale: 8, Seed: 554456434, Size: 768x1024, Model hash: 8d9aaa54
